@@ -6,11 +6,12 @@ digital-gaffiot-json
 
 LICENSE
 =========
-This data is a conversion from the [source file](http://gerardgreco.free.fr/spip.php?article47) in tex format to JSON.
+This data is a conversion from the [source file](http://gerardgreco.free.fr/spip.php?article47) in tex format to JSON format.
+It is used in the non-commercial "[Gaffiot App](https://github.com/Gaffiot/GaffiotApp)"
 
 ### Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
-	* Source file available on this page: [http://gerardgreco.free.fr/spip.php?article47](http://gerardgreco.free.fr/spip.php?article47)
+	* Source file available on this page: http://gerardgreco.free.fr/spip.php?article47
 	* Source data fetched: 23.10.2017
 	* Authors of the data: Gérard Gréco, Mark De Wilde, Bernard Maréchal et Katsuhiko Ôkubo.
 
