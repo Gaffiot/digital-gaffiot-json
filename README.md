@@ -1,18 +1,18 @@
 digital-gaffiot-json
 =================================
 
-## [JSON FILE](gaffiot.json)
+* ## [JSON FILE](gaffiot.json)
 
 
 LICENSE
 =========
 This data is a conversion from the [source file](http://gerardgreco.free.fr/spip.php?article47) in tex format to JSON.
 
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+### Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
-* Source file available on this page: [http://gerardgreco.free.fr/spip.php?article47](http://gerardgreco.free.fr/spip.php?article47)
-* Source data fetched: 23.10.2017
-* Authors of the data: Gérard Gréco, Mark De Wilde, Bernard Maréchal et Katsuhiko Ôkubo.
+	* Source file available on this page: [http://gerardgreco.free.fr/spip.php?article47](http://gerardgreco.free.fr/spip.php?article47)
+	* Source data fetched: 23.10.2017
+	* Authors of the data: Gérard Gréco, Mark De Wilde, Bernard Maréchal et Katsuhiko Ôkubo.
 
 ---
 
